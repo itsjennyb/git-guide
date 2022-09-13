@@ -95,8 +95,11 @@
   }
 
   button {
+    margin: 10px;
     height: 40px;
     width: 120px;
+    background-color: #E5D2FF;
+    color: #000;
   }
 
   .text-center {
